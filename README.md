@@ -1,16 +1,20 @@
-### Hi there 👋
+<br />
+<p align="center">
+    <img src="https://i.ibb.co/GvgjBcN/favicon.png" alt="Logo" >                       
+    <h3 align="center">Portofolio of averagecheat</h3>
+    <center>
+<h5 align="center">
+    <a href="https://github.com/averagecheat?tab=repositories"><strong>Explore our repositories »</strong></a>
 
-<!--
-**averagecheat/averagecheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+ 
+ 
+<br>
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=averagecheat&layout=compact&text_color=daf7dc&bg_color=151515&var=10/ width="350" height="350"/> 
+</p>
+</h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</center>
+
+<br>
